@@ -32,7 +32,14 @@ d1e6aff Fix schema xsd
 
 +++
 
-##Które wolałbyś czytać?
+#Które wolałbyś czytać?
+
++++
+
+###Różnice:
+
+1. Zwięzłość
+2. Spójność
 
 ---
 ## Bibliografia

@@ -4,7 +4,7 @@
 
 ## Wujek Bob namieszał....
 
-![Image of Yaktocat](./images/clean-code.jpeg)
+![Clean code](./images/clean-code.jpeg)
 
 ---
 ## Bibliografia

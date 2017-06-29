@@ -72,7 +72,7 @@ d1e6aff Fix schema xsd
 1. Nie przekraczaj 72. znaków w ciele
 1. Użyj ciała, aby opisać co? dlaczego? i jak?
 
-* Dodaj metatagi na końcu, musi je dzielić jedna pusta linia
+*** Dodaj metatagi na końcu, musi je dzielić jedna pusta linia
 
 +++
 

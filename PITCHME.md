@@ -4,7 +4,7 @@
 
 ## Wujek Bob namieszał....
 
-![Clean code](./images/clean-code.jpeg)
+![Clean code](./images/clean-code.jpg)
 
 ---
 ## Bibliografia

@@ -18,6 +18,22 @@ e4cc7d8 fixed bug with checking screens
 dded890 SmUHD90AftersaleModeSelftests.xml - setInconclusiveResultIfFailed - true added
 ```
 
++++
+
+###Tak wyglądają teraz:
+```zsh
+$ git log --oneline -5 --author mrowicki --before "Fri Thu 30 2017"
+c172e21 Fix ETH naming convention 
+1d173b8 Make corrections after code review
+741544d Apply new lanrescue
+d1e6aff Fix schema xsd
+92b6a36 Correct error name in SmUhd90Selftests.java
+```
+
++++
+
+##Które wolałbyś czytać?
+
 ---
 ## Bibliografia
 1. https://chris.beams.io/posts/git-commit/

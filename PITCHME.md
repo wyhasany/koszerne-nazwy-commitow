@@ -7,6 +7,18 @@
 ![Clean code](./images/clean-code.jpg)
 
 ---
+
+###Tak wyglądały moje commity rok temu:
+```zsh
+$ git log --oneline -5 --author mrowicki --before "Fri Thu 30 2016"
+1994130 3 fixes of FXS test: * fix setting end of GTD FXS test in case when LB can not ring * fix rescue step reset FXS script * fix setting fail FXS test step LB3 Pro * upgrade every instanse of SG91150456 FMW because of FXS fixes #2720
+39b5bdf waiting for device added in Factory Reset probe
+e4cc7d8 fixed bug with checking screens
+8761ada Remove space
+dded890 SmUHD90AftersaleModeSelftests.xml - setInconclusiveResultIfFailed - true added
+```
+
+---
 ## Bibliografia
 1. https://chris.beams.io/posts/git-commit/
 1. 
